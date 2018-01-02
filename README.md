@@ -1,4 +1,4 @@
-#[Informatis Olympiad](http://www.olympiad.org.uk/)
+# [Informatics Olympiad](http://www.olympiad.org.uk/)
 
 See [their overview](http://www.olympiad.org.uk/overview.html) of the competition.
 
